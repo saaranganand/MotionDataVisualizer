@@ -54,6 +54,7 @@ while True:
         break
 
 print(status_list)
+
 print(times)
 
 for i in range(0, len(times),2):
